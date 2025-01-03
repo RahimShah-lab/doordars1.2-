@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doordars1.2-/static/css/main.9acfee46.css",
+    "main.js": "/doordars1.2-/static/js/main.30581087.js",
+    "static/js/488.433f1cd7.chunk.js": "/doordars1.2-/static/js/488.433f1cd7.chunk.js",
+    "index.html": "/doordars1.2-/index.html",
+    "main.9acfee46.css.map": "/doordars1.2-/static/css/main.9acfee46.css.map",
+    "main.30581087.js.map": "/doordars1.2-/static/js/main.30581087.js.map",
+    "488.433f1cd7.chunk.js.map": "/doordars1.2-/static/js/488.433f1cd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9acfee46.css",
+    "static/js/main.30581087.js"
+  ]
+}
