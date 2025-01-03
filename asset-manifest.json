@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/doordars1.2-/static/css/main.2ed5a15c.css",
-    "main.js": "/doordars1.2-/static/js/main.9d55e6f0.js",
+    "main.js": "/doordars1.2-/static/js/main.12b1968b.js",
     "static/js/488.433f1cd7.chunk.js": "/doordars1.2-/static/js/488.433f1cd7.chunk.js",
     "index.html": "/doordars1.2-/index.html",
     "main.2ed5a15c.css.map": "/doordars1.2-/static/css/main.2ed5a15c.css.map",
-    "main.9d55e6f0.js.map": "/doordars1.2-/static/js/main.9d55e6f0.js.map",
+    "main.12b1968b.js.map": "/doordars1.2-/static/js/main.12b1968b.js.map",
     "488.433f1cd7.chunk.js.map": "/doordars1.2-/static/js/488.433f1cd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ed5a15c.css",
-    "static/js/main.9d55e6f0.js"
+    "static/js/main.12b1968b.js"
   ]
 }
