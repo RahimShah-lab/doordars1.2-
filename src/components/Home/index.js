@@ -11,7 +11,7 @@ function Home() {
     return (
         <>
            {/* Main Banner Section */}
-<div className="relative bg-cover bg-center text-center font-bold py-16" style={{ backgroundImage: 'url(/assets/images/home-image.jpg)' }}>
+<div className="relative bg-cover bg-center text-center font-bold py-16" style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/assets/images/home-image.jpg)` }}>
     <div className="absolute inset-0 bg-black opacity-55"></div> {/* Overlay */}
     <h1 className="md:w-[35%] mx-auto text-2xl md:text-3xl text-white px-4 md:p-10 relative z-10">
         Artificial Intelligence in Education DoorDars
