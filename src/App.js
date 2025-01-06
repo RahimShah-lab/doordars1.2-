@@ -113,7 +113,7 @@ import AiClassRoom from "./pages/aiClassRoom";
 import EdgeAIEducation from "./pages/edgeAIEducation";
 import OwnAILounchpadKit from "./pages/ownaiLaunchpadKit";
 import DHTSensor from "./pages/dhtSensor";
-import AiChildrenEducation from "./pages/AiChildrenEducation";
+import AiChildrenEducation from "./pages/aiChildrenEducation";
 import AIToolTransferming from "./pages/aiToolTransferming";
 import Disclaimer from "./pages/disclaimer";
 import CookiePolicy from"./pages/cookiePolicy";
