@@ -39,7 +39,7 @@ function Home() {
                         {
                             title: "AI for Education",
                             description: "Discover how cutting-edge AI techniques transform classrooms into interactive and personalized learning environments.",
-                            image: `/assets/images/ai-children-classroom.avif`,
+                            image: `../../../public/assets/images/ai-lounchpad-home.jpeg`,
                         },
                         
                         {
