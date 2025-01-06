@@ -11,7 +11,7 @@ function Home() {
     return (
         <>
            {/* Main Banner Section */}
-<div className="relative bg-cover bg-center text-center font-bold py-16" style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/assets/images/home-image.jpg)` }}>
+<div className="relative bg-cover bg-center text-center font-bold py-16" style={{ backgroundImage: `url(/assets/images/home-image.jpg)` }}>
     <div className="absolute inset-0 bg-black opacity-55"></div> {/* Overlay */}
     <h1 className="md:w-[35%] mx-auto text-2xl md:text-3xl text-white px-4 md:p-10 relative z-10">
         Artificial Intelligence in Education DoorDars
@@ -39,32 +39,32 @@ function Home() {
                         {
                             title: "AI for Education",
                             description: "Discover how cutting-edge AI techniques transform classrooms into interactive and personalized learning environments.",
-                            image: `${process.env.PUBLIC_URL}/assets/images/ai-children-classroom.avif`,
+                            image: `/assets/images/ai-children-classroom.avif`,
                         },
                         
                         {
                             title: "Hands-On STEM Projects",
                             description:
                                 "Engage with practical experiments using Raspberry Pi Pico, ESP32, and IoT technology to bring STEM concepts to life.",
-                                image: `${process.env.PUBLIC_URL}/assets/images/dht-predicted.avif`,
+                                image: `/assets/images/dht-predicted.avif`,
                         },
                         {
                             title: "Digital Learning Resources",
                             description:
                                 "Access a rich collection of e-books and children’s stories that make learning fun and interactive.",
-                            image: `${process.env.PUBLIC_URL}/assets/images/ai-landing.avif`,
+                            image: `/assets/images/ai-landing.avif`,
                         },
                         {
                             title: "AI Launchpad Kits",
                             description:
                                 "Take learning further with our exclusive AI Launchpad kits, tailored for budding innovators.",
-                            image: `${process.env.PUBLIC_URL}/assets/images/front-page-ful-kit.avif`,
+                            image: `/assets/images/front-page-ful-kit.avif`,
                         },
                         {
                             title: "Inspiring Blog",
                             description:
                                 "Stay updated with insights, tutorials, and ideas to foster STEM education and creativity.",
-                            image: `${process.env.PUBLIC_URL}/assets/images/ai-lounchpad-home.jpeg`,
+                            image: `/assets/images/ai-lounchpad-home.jpeg`,
                         },
                     ].map((card, idx) => (
                         <div
